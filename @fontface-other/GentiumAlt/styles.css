@@ -1,0 +1,8 @@
+
+@font-face {
+	font-family: 'GentiumAlt';
+	src: url('GentiumAlt.eot?') format('eot'), 
+	     url('GentiumAlt.woff') format('woff'), 
+	     url('GentiumAlt.ttf')  format('truetype'),
+	     url('GentiumAlt.svg#GentiumAlt') format('svg');
+}

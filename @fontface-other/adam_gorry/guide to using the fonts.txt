@@ -1,0 +1,59 @@
+ADAM GORRY INLINE & ADAM GORRY LIGHTS from Sentinel Type, designed by James Arboghast
+
+Thanks for downloading the Adam Gorry font package. A matching duo, AG Lights mimics the giant light bulb lettering used on theatre billboards, and AG Inline is a traditional inline type. Both fonts are designed strictly for display use, and only perform well at large and larger sizes; text use and small sizes will invariably produce unsatisfactory results.
+
+The AG duo are named after a very special boy, Adam Gorry, of Dorset, England. In 1997, Adam at age 3 was diagnosed with Leukaemi. In 2002 he beat it and is now a healthy, happy growing lad. Specialist care, chemotherapy and the love of Adam's family helped immensely. I decided to dedicate these fonts to Adam as a way of reminding us regular folks how fragile human life can be, and the ongoing need for research to beat this and other crippling disorders. So if you use these fonts please make a cash donation to a Leukaemia foundation or research fund of your choice. Your donation will make a difference.
+
+For detailed information on conditions of use, please read the End User License Agreement included in the font package.
+________________________________________________________________________________
+
+More About the Fonts
+
+Many variations of these two decorative display type styles have existed for approximately a century. Most are similar to the AG pair but plainer, or of the retro variety (1940's - 1950's roadside diner or 'Hotel Reno' style). The AG duo differ with semicircular stroke ends and dual upper case letter set, including some useful alternates and ligatures.
+
+Checklist:
+
+* 2 matching, professionally designed, commercial quality fonts 
+* full punctuation, smart quotes, currency, fractions, superiors etc
+* new-fangled Euro currency symbol
+* accented Western European characters
+* Windows 1252 Latin 1 character set (see above)
+* fully embeddable for use with Adobe .PDF documents
+
+
+Guide to the Character Set (characters not notated are identical for upper and lower case)
+
+Upper Case
+'A'					squared roundtop Latin A
+'E'					square Latin E
+'F'					fastback Latin F
+'K'					straight leg Latin K 
+'N'					Latin N
+'R'					curled leg Latin R
+
+Lower Case
+'a'					triangular Latin A
+'e'					circular Latin E
+'f'					straightback Latin F
+'k'					curled leg Latin K
+'n'					cursive lowercase n
+'r'					straight leg Latin R
+
+Extra Characters
+Character			KEY		PC				Mac				Description
+brace left			'{'			{				{					left-handed asymmetric half-round A
+brace right		'}'			}				}					right-handed asymmetric half-round A
+ASCII tilde			'~'			~				~					horseshoe symmetric round-top A
+Euro				N/A		ALT+0128		Op+Sh+2			Euro currency symbol
+florin				N/A		ALT+0131		Op+f				AE ligature--squared roundtop A + circular E
+'currency'			N/A		ALT+0164		Op+Sh+2			OU ligature, Latin
+'broken bar'		N/A		ALT+0166		Sh + \				OA ligature, Latin
+'section'			N/A		ALT+0167		Op+6				OL ligature, Latin
+
+(PC users note: for ALT+number codes to work, turn on the 'Numlock' and punch in the numbers on the number pad.)
+
+Thanks for taking the time to read this, and enjoy the fonts.
+
+
+James Arboghast
+4.06.2004 Melbourne, Australia

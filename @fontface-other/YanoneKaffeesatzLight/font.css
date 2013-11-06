@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'YanoneKaffeesatzLight';
+    
+    	src: url('http://fontsforweb.com/public/fonts/1102/YanoneKaffeesatzLight.eot');
+	src: local('YanoneKaffeesatzLight'), url('http://fontsforweb.com/public/fonts/1102/YanoneKaffeesatzLight.ttf') format('truetype');
+    }
+body.cke_show_borders p {
+	font-family: 'YanoneKaffeesatzLight';
+    font-size: 30px;
+}
+.fontsforweb_fontid_1102 {
+	font-family: 'YanoneKaffeesatzLight' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

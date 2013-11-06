@@ -1,0 +1,60 @@
+@font-face {
+				font-family: 'RobotoCondensed-Regular';
+				src: url('robotocondensedregular.eot');
+				src: url('robotocondensedregular.eot?#iefix') format('embedded-opentype'),
+						 url('robotocondensedregular.woff') format('woff'),
+						 url('robotocondensedregular.ttf') format('truetype'),
+						 url('robotocondensedregular.svg#robotocondensedregular') format('svg');
+				font-weight: normal;
+				font-style: normal;
+		}
+	@font-face {
+				font-family: 'RobotoCondensed-LightItalic';
+				src: url('robotocondensedlightitalic.eot');
+				src: url('robotocondensedlightitalic.eot?#iefix') format('embedded-opentype'),
+						 url('robotocondensedlightitalic.woff') format('woff'),
+						 url('robotocondensedlightitalic.ttf') format('truetype'),
+						 url('robotocondensedlightitalic.svg#robotocondensedlightitalic') format('svg');
+				font-weight: normal;
+				font-style: normal;
+		}		
+@font-face {
+				font-family: 'RobotoCondensed-Light';
+				src: url('robotocondensedlight.eot');
+				src: url('robotocondensedlight.eot?#iefix') format('embedded-opentype'),
+						 url('robotocondensedlight.woff') format('woff'),
+						 url('robotocondensedlight.ttf') format('truetype'),
+						 url('robotocondensedlight.svg#robotocondensedlight') format('svg');
+				font-weight: normal;
+				font-style: normal;
+		}
+@font-face {
+				font-family: 'RobotoCondensed-Italic';
+				src: url('robotocondenseditalic.eot');
+				src: url('robotocondenseditalic.eot?#iefix') format('embedded-opentype'),
+						 url('robotocondenseditalic.woff') format('woff'),
+						 url('robotocondenseditalic.ttf') format('truetype'),
+						 url('robotocondenseditalic.svg#robotocondenseditalic') format('svg');
+				font-weight: normal;
+				font-style: normal;
+		}
+@font-face {
+				font-family: 'RobotoCondensed-BoldItalic';
+				src: url('robotocondensedbolditalic.eot');
+				src: url('robotocondensedbolditalic.eot?#iefix') format('embedded-opentype'),
+						 url('robotocondensedbolditalic.woff') format('woff'),
+						 url('robotocondensedbolditalic.ttf') format('truetype'),
+						 url('robotocondensedbolditalic.svg#robotocondensedbolditalic') format('svg');
+				font-weight: normal;
+				font-style: normal;
+		}
+@font-face {
+				font-family: 'RobotoCondensed-Bold';
+				src: url('robotocondensedbold.eot');
+				src: url('robotocondensedbold.eot?#iefix') format('embedded-opentype'),
+						 url('robotocondensedbold.woff') format('woff'),
+						 url('robotocondensedbold.ttf') format('truetype'),
+						 url('robotocondensedbold.svg#robotocondensedbold') format('svg');
+				font-weight: normal;
+				font-style: normal;
+		}

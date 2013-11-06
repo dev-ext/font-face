@@ -1,0 +1,1 @@
+Please copy and paste fontface css in the main style.css and use.. For font embed bug.

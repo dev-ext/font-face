@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+	font-family: 'HATTEN';
+	src: url('HATTEN.eot');
+	src: local('?'), url('HATTEN.woff') format('woff'), url('HATTEN.ttf') format('truetype'), url('HATTEN.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
