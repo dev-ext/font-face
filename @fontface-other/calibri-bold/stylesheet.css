@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'calibri-bold';
+    src: url('calibrib.eot');
+    src: url('calibri.eot?#iefix') format('embedded-opentype'),
+         url('calibrib.woff') format('woff'),
+         url('calibrib.ttf') format('truetype'),
+         url('calibrib.svg#calibri') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
