@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'JacobaBold';
+    src: url('jacoba_bold.eot');
+    src: url('jacoba_bold.eot') format('embedded-opentype'),
+         url('jacoba_bold.woff') format('woff'),
+         url('jacoba_bold.ttf') format('truetype'),
+         url('jacoba_bold.svg#JacobaBold') format('svg');
+}
